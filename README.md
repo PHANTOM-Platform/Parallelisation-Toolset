@@ -1,0 +1,2 @@
+# Parallelisation-Toolset
+The Parallelisation Toolset is responsible for both the code analysis and the suitable techniques selection for the preparation of the components for deployment. In particular, the tool is used to produce parallelised versions of the components, as well as adopt specific parallelisation techniques based on the deployment plan provided by the Multi-Objective Mapper. In the context of the Parallelisation Toolset, the IP Core generator for FPGAs has also been developed, but its implementation resides in a separate Repository.
